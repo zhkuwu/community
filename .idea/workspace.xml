@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="147275b5-8ab1-426f-9183-c831ba3e5dfa" name="Default Changelist" comment="第一次提交">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/coummunity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crow/coummunity/CoummunityApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crow/coummunity/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crow/coummunity/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/Hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/crow/coummunity/CoummunityApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/coummunity.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crow/coummunity/CoummunityApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crow/coummunity/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crow/coummunity/controller/IndexController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/Hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/crow/coummunity/CoummunityApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\repository" />
+        <option name="mavenHome" value="F:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V3QdMw10GQLh4FFPQxqvPaI1kI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576477893727" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA\spring boot\coummunity\src\main\resources\static\js" />
+      <recent name="F:\IDEA\spring boot\coummunity\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CoummunityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coummunity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.crow.coummunity.CoummunityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="147275b5-8ab1-426f-9183-c831ba3e5dfa" name="Default Changelist" comment="" />
+      <created>1576410331802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576410331802</updated>
+      <workItem from="1576410338337" duration="709000" />
+      <workItem from="1576471982515" duration="4834000" />
+      <workItem from="1576479396487" duration="4384000" />
+      <workItem from="1576494501712" duration="6158000" />
+      <workItem from="1576556589854" duration="4511000" />
+      <workItem from="1576567943097" duration="2382000" />
+      <workItem from="1576951273538" duration="1163000" />
+      <workItem from="1578580898690" duration="946000" />
+      <workItem from="1578904606913" duration="9000" />
+      <workItem from="1578904830591" duration="399000" />
+      <workItem from="1578905606011" duration="159000" />
+      <workItem from="1578906105418" duration="1091000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="93" key="#Project_Structure" timestamp="1576483967830">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="93" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1576483967830" />
+    <state x="449" y="161" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576479417412">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="161" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1576479417412" />
+    <state x="599" y="37" key="CommitChangelistDialog2" timestamp="1578907083776">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="599" y="37" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1578907083776" />
+    <state x="874" y="199" key="FileChooserDialogImpl" timestamp="1578907252629">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="874" y="199" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578907252629" />
+    <state width="1141" height="101" key="GridCell.Tab.0.bottom" timestamp="1576757315160">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1141" height="101" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1576757315160" />
+    <state width="1141" height="101" key="GridCell.Tab.0.center" timestamp="1576757315159">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1141" height="101" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1576757315159" />
+    <state width="1141" height="101" key="GridCell.Tab.0.left" timestamp="1576757315159">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1141" height="101" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1576757315159" />
+    <state width="1141" height="101" key="GridCell.Tab.0.right" timestamp="1576757315159">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1141" height="101" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1576757315159" />
+    <state width="1141" height="101" key="GridCell.Tab.1.bottom" timestamp="1576757315160">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1141" height="101" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1576757315160" />
+    <state width="1141" height="101" key="GridCell.Tab.1.center" timestamp="1576757315160">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1141" height="101" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1576757315160" />
+    <state width="1141" height="101" key="GridCell.Tab.1.left" timestamp="1576757315160">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1141" height="101" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1576757315160" />
+    <state width="1141" height="101" key="GridCell.Tab.1.right" timestamp="1576757315160">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1141" height="101" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1576757315160" />
+    <state x="544" y="87" width="992" height="707" key="SettingsEditor" timestamp="1578907208135">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="544" y="87" width="992" height="707" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578907208135" />
+    <state x="461" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1578906108573">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="461" y="259" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1578906108573" />
+  </component>
+</project>
